@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<markers>
+	<marker idLocal="" name="Ahumada" address="Bernardino Braco 0115, Buin, Chile" lat="-33.733631" lng="-70.733826" valor="203" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Jose Manuel Balmaceda 124, Buin, Chile" lat="-33.733482" lng="-70.738007" valor="76" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="San Martín 174, Buin, Chile" lat="-33.732002" lng="-70.735939" valor="249" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Américo Vespucio 2500, Cerrillos, Chile" lat="-33.468246" lng="-70.762054" valor="237" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="A. Vespucio 1501, Cerrillos, Chile" lat="-33.514839" lng="-70.718010" valor="114" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Americo Vespucio 1501, Cerrillos, Chile" lat="-33.514839" lng="-70.718010" valor="239" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Américo Vespucio 1501, Cerrillos, Chile" lat="-33.514839" lng="-70.718010" valor="30" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Calle Paseo Colina Sur 14500, Colina, Chile" lat="-33.195274" lng="-70.670898" valor="31" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Carretera General San Martin 068, Colina, Chile" lat="-33.204151" lng="-70.675331" valor="200" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Chicureo 130, Colina, Chile" lat="-33.285679" lng="-70.682205" valor="205" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Independencia 4142, Conchalí, Chile" lat="-33.389717" lng="-70.676071" valor="125" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Pedro Fontova 5801, Conchalí, Chile" lat="-33.372280" lng="-70.671036" valor="120" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Independencia 3601, Conchalí, Chile" lat="-33.395496" lng="-70.672035" valor="148" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Riquelme 69, El Bosque, Chile" lat="-33.545815" lng="-70.667755" valor="249" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Gladys Marin Millie 6475, Estación Central, Chile" lat="-33.463085" lng="-70.722466" valor="258" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="General Velasquez 060, Estación Central, Chile" lat="-33.482292" lng="-70.686913" valor="170" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Alameda 3122, Estación Central, Chile" lat="-33.452187" lng="-70.682671" valor="132" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Lib. B. Ohiggins 4103, Estación Central, Chile" lat="-33.449146" lng="-70.682266" valor="57" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Libertador Bdo. OHiggins 5199, Estación Central, Chile" lat="-33.449146" lng="-70.682266" valor="240" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="San Francisco de Borja 122, Estación Central, Chile" lat="-33.453018" lng="-70.680359" valor="171" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Exposición 51, Estación Central, Chile" lat="-33.451672" lng="-70.677887" valor="145" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="A. Vespucio Norte 1737, Huechuraba, Chile" lat="-33.378376" lng="-70.651161" valor="215" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Pedro Fontova 6251, Huechuraba, Chile" lat="-33.366062" lng="-70.670479" valor="242" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Pedro Fontova 7571, Huechuraba, Chile" lat="-33.351349" lng="-70.670387" valor="270" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Independencia 895, Independencia, Chile" lat="-33.420597" lng="-70.655739" valor="258" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Salomon Sack 351, Independencia, Chile" lat="-33.419796" lng="-70.670242" valor="135" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Americo Vespucio 33, La Cisterna, Chile" lat="-33.536781" lng="-70.665306" valor="284" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Gran Avenida 7406, La Cisterna, Chile" lat="-33.522774" lng="-70.660393" valor="49" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="J. M. Carrera 6485, La Cisterna, Chile" lat="-33.516228" lng="-70.658600" valor="185" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="A. Vespucio 7500, La Florida, Chile" lat="-33.522125" lng="-70.597473" valor="102" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Walker Martínez 1767, La Florida, Chile" lat="-33.522572" lng="-70.579163" valor="230" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackenna 6100, La Florida, Chile" lat="-33.562424" lng="-70.585144" valor="272" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Av A. Vespucio 7310, La Florida, Chile" lat="-33.524097" lng="-70.600861" valor="102" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackenna 7110, La Florida, Chile" lat="-33.562424" lng="-70.585144" valor="290" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackenna 6100, La Florida, Chile" lat="-33.562424" lng="-70.585144" valor="295" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Froilan Roa 7107, La Florida, Chile" lat="-33.514473" lng="-70.600075" valor="37" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Av Vic Mackenna 7196, La Florida, Chile" lat="-33.533333" lng="-70.583336" valor="79" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Américo Vespucio 6325, La Florida, Chile" lat="-33.511909" lng="-70.590836" valor="256" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackena 8733, La Florida, Chile" lat="-33.535065" lng="-70.593292" valor="202" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Rojas Magallanes 3638, La Florida, Chile" lat="-33.535740" lng="-70.554245" valor="212" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vic. Mackenna Poniente 7410, La Florida, Chile" lat="-33.535374" lng="-70.562935" valor="267" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Americo Vespucio 6955, La Florida, Chile" lat="-33.522984" lng="-70.599174" valor="47" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackenna 6496, La Florida, Chile" lat="-33.562424" lng="-70.585144" valor="146" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Walker Martinez 3600, La Florida, Chile" lat="-33.522236" lng="-70.556511" valor="174" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackenna 9521, La Florida, Chile" lat="-33.546436" lng="-70.588158" valor="138" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="La Florida 9497, La Florida, Chile" lat="-33.543621" lng="-70.570168" valor="195" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Santa Amalia 1763, La Florida, Chile" lat="-33.543659" lng="-70.564964" valor="171" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Santa Amalia 1763, La Florida, Chile" lat="-33.543659" lng="-70.564964" valor="278" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackenna 9101, La Florida, Chile" lat="-33.546436" lng="-70.588158" valor="210" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackenna 11145, La Florida, Chile" lat="-33.561581" lng="-70.585304" valor="211" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="La Florida 10149, La Florida, Chile" lat="-33.549683" lng="-70.566711" valor="180" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Gabriela 02541, Puente Alto, Chile" lat="-33.585686" lng="-70.628334" valor="67" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Ossa 345, La Reina, Chile" lat="-33.450386" lng="-70.571106" valor="149" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Bilbao 7411, La Reina, Chile" lat="-33.430561" lng="-70.555222" valor="268" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Jorge Alessandri 1131, La Reina, Chile" lat="-33.462627" lng="-70.547318" valor="237" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Larraín 6563, La Reina, Chile" lat="-33.452660" lng="-70.562218" valor="192" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Príncipe de Gales 7230, La Reina, Chile" lat="-33.438862" lng="-70.556976" valor="86" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Larraín 5862, La Reina, Chile" lat="-33.453403" lng="-70.569359" valor="119" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Principe de Gales 8481, La Reina, Chile" lat="-33.440475" lng="-70.543465" valor="56" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Jorge Alessandri 1131, La Reina, Chile" lat="-33.462627" lng="-70.547318" valor="116" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Enrique Foster 39, Las Condes, Chile" lat="-33.415955" lng="-70.594131" valor="260" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Isidora Goyenechea 3103, Las Condes, Chile" lat="-33.414375" lng="-70.597862" valor="100" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Bilbao 4144, Las Condes, Chile" lat="-33.431267" lng="-70.578743" valor="291" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Colón 4359, Las Condes, Chile" lat="-33.423744" lng="-70.580246" valor="72" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Apoquindo 2782, Las Condes, Chile" lat="-33.417786" lng="-70.600395" valor="89" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="El Bosque Norte 0181, Las Condes, Chile" lat="-33.415119" lng="-70.601273" valor="132" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="El Bosque Norte 134, Las Condes, Chile" lat="-33.415909" lng="-70.600723" valor="131" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Los Militares 6872, Las Condes, Chile" lat="-33.401554" lng="-70.560493" valor="117" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Las Condes 8590, Las Condes, Chile" lat="-33.395546" lng="-70.548820" valor="115" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Kennedy 5413, Las Condes, Chile" lat="-33.400253" lng="-70.576355" valor="108" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Manquehue Norte 477, Las Condes, Chile" lat="-33.394001" lng="-70.572250" valor="66" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Cuarto Centenario 999, Las Condes, Chile" lat="-33.417721" lng="-70.553444" valor="269" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Cristobal Colón 5090, Las Condes, Chile" lat="-33.418823" lng="-70.572083" valor="131" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Apoquindo 4831, Las Condes, Chile" lat="-33.412304" lng="-70.579269" valor="86" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Manquehue Sur 31, Las Condes, Chile" lat="-33.409225" lng="-70.567192" valor="281" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Isabel La Católica 6072, Las Condes, Chile" lat="-33.425282" lng="-70.564484" valor="151" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Americo Vespucio Sur 1790, Las Condes, Chile" lat="-33.428535" lng="-70.574806" valor="129" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Piacenza 1020, Las Condes, Chile" lat="-33.417587" lng="-70.558540" valor="106" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Camino EL Alba 11.969, Las Condes, Chile" lat="-33.402283" lng="-70.522308" valor="238" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Paul Harris 10287, Las Condes, Chile" lat="-33.386082" lng="-70.531303" valor="53" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Camino El Alba 11865, Las Condes, Chile" lat="-33.401283" lng="-70.517464" valor="194" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Tomás Moro 1149, Las Condes, Chile" lat="-33.424831" lng="-70.553940" valor="239" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Bilbao 8750, Las Condes, Chile" lat="-33.428776" lng="-70.540588" valor="43" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Camino el Alba 11.969, Las Condes, Chile" lat="-33.402283" lng="-70.522308" valor="157" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Camino el Alba 11865, Las Condes, Chile" lat="-33.401283" lng="-70.517464" valor="189" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Kennedy 9001, Las Condes, Chile" lat="-33.388824" lng="-70.545273" valor="281" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Kennedy 9001, Las Condes, Chile" lat="-33.388824" lng="-70.545273" valor="38" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="San Damián 20, Las Condes, Chile" lat="-33.376369" lng="-70.525612" valor="200" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Las Condes 6737, Las Condes, Chile" lat="-33.406902" lng="-70.560905" valor="67" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Las Condes 12271, Las Condes, Chile" lat="-33.373096" lng="-70.518364" valor="36" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Lo Fontecilla 441, Las Condes, Chile" lat="-33.383877" lng="-70.530289" valor="220" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Las Condes 10.295, Las Condes, Chile" lat="-33.373402" lng="-70.517982" valor="76" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Valle Nevado 11.811, Las Condes, Chile" lat="-33.392353" lng="-70.514832" valor="54" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Las Condes 14791, Lo Barnechea, Chile" lat="-33.363838" lng="-70.494240" valor="51" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Los Trapenses 3515, Lo Barnechea, Chile" lat="-33.344269" lng="-70.544434" valor="187" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="La Dehesa 3265, Lo Barnechea, Chile" lat="-33.341927" lng="-70.521355" valor="218" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="La Dehesa 1445, Lo Barnechea, Chile" lat="-33.358402" lng="-70.517151" valor="199" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="La Dehesa 457, Lo Barnechea, Chile" lat="-33.362980" lng="-70.514931" valor="144" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="José Alcalde Delano 11355, Lo Barnechea, Chile" lat="-33.354725" lng="-70.531281" valor="95" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="El Rodeo 12699, Lo Barnechea, Chile" lat="-33.353191" lng="-70.521355" valor="221" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="La Dehesa 1445, Lo Barnechea, Chile" lat="-33.358402" lng="-70.517151" valor="252" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="José Alcalde Delano 12205, Lo Barnechea, Chile" lat="-33.353725" lng="-70.524879" valor="159" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Las Condes 12916, Lo Barnechea, Chile" lat="-33.370838" lng="-70.512398" valor="218" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Comandante Malbec 13500, Lo Barnechea, Chile" lat="-33.356709" lng="-70.510521" valor="136" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="El Rodeo 12.850, Lo Barnechea, Chile" lat="-33.351990" lng="-70.513435" valor="190" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Neptuno 720, Lo Prado, Chile" lat="-33.445652" lng="-70.723381" valor="133" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Macul 2555, Macul, Chile" lat="-33.478085" lng="-70.598991" valor="112" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="José Pedro Alessandri 2127, Macul, Chile" lat="-33.491947" lng="-70.600113" valor="168" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackenna 4102, Macul, Chile" lat="-33.491699" lng="-70.617409" valor="82" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackenna 3361, Macul, Chile" lat="-33.483532" lng="-70.620781" valor="174" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="José Luís Infante Larraín 1541, Maipú, Chile" lat="-33.560646" lng="-70.780785" valor="204" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Sur 411, Maipú, Chile" lat="-33.521015" lng="-70.761932" valor="92" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Pajaritos 2689, Maipú, Chile" lat="-33.503578" lng="-70.757256" valor="91" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Pajaritos 4500, Maipú, Chile" lat="-33.481598" lng="-70.745338" valor="147" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Pajaritos 2040, Maipú, Chile" lat="-33.508659" lng="-70.757408" valor="71" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Américo Vespucio 1001, Maipú, Chile" lat="-33.482155" lng="-70.753555" valor="111" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Ramon Freire 1790, Maipú, Chile" lat="-33.510319" lng="-70.777901" valor="41" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Alfredo Silva Carvallo 1415, Maipú, Chile" lat="-33.531597" lng="-70.775017" valor="113" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Caleta Vespucio Norte 51, Strip Center Arauco, Maipú, Chile" lat="-33.518456" lng="-70.762344" valor="69" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Pajaritos 1790, Maipú, Chile" lat="-33.510769" lng="-70.757385" valor="297" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Cuatro Poniente 01221, Maipú, Chile" lat="-33.516605" lng="-70.791336" valor="245" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Caletera Vespucio Norte 51, Maipú, Chile" lat="-33.516666" lng="-70.766670" valor="152" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Americo Vespucio 1501, Maipú, Chile" lat="-33.503311" lng="-70.738480" valor="161" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="El Rosal 6361, Maipú, Chile" lat="-33.479107" lng="-70.755898" valor="91" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="R. Freire 1529, Maipú, Chile" lat="-33.507599" lng="-70.751389" valor="261" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Ramón Freire 2340, Maipú, Chile" lat="-33.510319" lng="-70.777901" valor="95" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Plaza de Armas 535, Melipilla, Chile" lat="-33.686157" lng="-71.216682" valor="138" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackenna 0153, Melipilla, Chile" lat="-33.680634" lng="-71.208603" valor="195" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Manzo 559l, Melipilla, Chile" lat="-33.691402" lng="-71.215042" valor="232" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Serrano 395, Melipilla, Chile" lat="-33.684994" lng="-71.213844" valor="246" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Calle Simón Bolívar 4800, Ñuñoa, Chile" lat="-33.448288" lng="-70.580727" valor="284" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Pedro de Valdivia 3774, Ñuñoa, Chile" lat="-33.457275" lng="-70.605354" valor="115" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Américo Vespucio Sur 881, Ñuñoa, Chile" lat="-33.421558" lng="-70.580917" valor="234" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Grecia 245, Ñuñoa, Chile" lat="-33.455326" lng="-70.627113" valor="254" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Irarrazaval 2928, Ñuñoa, Chile" lat="-33.454514" lng="-70.600609" valor="268" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Grecia 3031, Ñuñoa, Chile" lat="-33.464653" lng="-70.600060" valor="278" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Pedro de Valdivia 2830, Ñuñoa, Chile" lat="-33.448391" lng="-70.605583" valor="288" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Campos de Deportes 156, Ñuñoa, Chile" lat="-33.455029" lng="-70.609085" valor="38" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Emilia Téllez 5593, Ñuñoa, Chile" lat="-33.441498" lng="-70.572876" valor="105" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Simón Bolívar 3756, Ñuñoa, Chile" lat="-33.448483" lng="-70.591255" valor="111" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Pedro de Valdivia 2523, Ñuñoa, Chile" lat="-33.445614" lng="-70.606140" valor="152" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Americo Vespucio 571, Ñuñoa, Chile" lat="-33.458672" lng="-70.572357" valor="97" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Juan Moya 1310, Ñuñoa, Chile" lat="-33.466961" lng="-70.588600" valor="45" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Irarrázaval 4221, Ñuñoa, Chile" lat="-33.455498" lng="-70.585831" valor="205" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="José Pedro Alessandri 1166, Ñuñoa, Chile" lat="-33.466747" lng="-70.598320" valor="244" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Irarrázaval 2626, Ñuñoa, Chile" lat="-33.454182" lng="-70.603943" valor="290" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Jose Pedro Alessandri 1168, Ñuñoa, Chile" lat="-33.466747" lng="-70.598320" valor="56" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackenna 798 / Irarrázaval, Ñuñoa, Chile" lat="-33.453766" lng="-70.628777" valor="184" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Irarrazaval 5353, Ñuñoa, Chile" lat="-33.454006" lng="-70.575546" valor="183" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="General Jose Artigas 2850, Ñuñoa, Chile" lat="-33.444912" lng="-70.599106" valor="63" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackenna 1048, Ñuñoa, Chile" lat="-33.454811" lng="-70.629921" valor="201" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Salvador 1866, Ñuñoa, Chile" lat="-33.450169" lng="-70.621559" valor="276" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Sucre 3250, Ñuñoa, Chile" lat="-33.447819" lng="-70.597549" valor="288" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Alcalde Luis Araya Cereceda 1047, Peñaflor, Chile" lat="-33.606449" lng="-70.898766" valor="148" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="21 de Mayo 4368, Peñaflor, Chile" lat="-33.608253" lng="-70.899620" valor="181" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Tobalaba 13677, Peñalolén, Chile" lat="-33.500381" lng="-70.560852" valor="241" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Américo Vespucio 3100, Peñalolén, Chile" lat="-33.484791" lng="-70.579391" valor="52" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Tobalaba 11835, Peñalolén, Chile" lat="-33.480740" lng="-70.558067" valor="170" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Consistorial 3349, Peñalolén, Chile" lat="-33.487972" lng="-70.549149" valor="282" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Mar Tirreno 3349, Peñalolen, Chile" lat="-33.485790" lng="-70.576920" valor="124" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Sanchez Fontecilla 12.000 (Jumbo Local 1061), Peñalolén, Chile" lat="-33.483334" lng="-70.550003" valor="235" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Mar Tirreno 5449, Peñalolén, Chile" lat="-33.494751" lng="-70.579277" valor="158" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Santa Isabel 1131, Providencia, Chile" lat="-33.445824" lng="-70.616661" valor="74" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="La Concepción 135, Providencia, Chile" lat="-33.424549" lng="-70.615875" valor="42" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Seminario, Providencia, Chile" lat="-33.442513" lng="-70.629562" valor="202" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Providencia 2001, Providencia, Chile" lat="-33.423573" lng="-70.612404" valor="43" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="11 de Septiembre 1313, Providencia, Chile" lat="-33.429520" lng="-70.619553" valor="120" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Salvador 89, Providencia, Chile" lat="-33.434578" lng="-70.626167" valor="204" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vicuña Mackenna 106, Providencia, Chile" lat="-33.442116" lng="-70.633720" valor="105" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Providencia 3, Providencia, Chile" lat="-33.437256" lng="-70.634674" valor="154" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Providencia 1272, Providencia, Chile" lat="-33.428947" lng="-70.620621" valor="162" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Manuel Montt 748, Providencia, Chile" lat="-33.434864" lng="-70.616585" valor="165" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Andres Bello 2447, Providencia, Chile" lat="-33.417683" lng="-70.608253" valor="149" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="El Bosque 164, Providencia, Chile" lat="-33.421368" lng="-70.598579" valor="127" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Providencia 2128, Providencia, Chile" lat="-33.422535" lng="-70.611038" valor="73" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Providencia 2499, Providencia, Chile" lat="-33.419300" lng="-70.604218" valor="46" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Andres Bello 2447, Providencia, Chile" lat="-33.417683" lng="-70.608253" valor="69" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Providencia 2034, Providencia, Chile" lat="-33.423183" lng="-70.611961" valor="141" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Tobalaba 201, Providencia, Chile" lat="-33.419453" lng="-70.600021" valor="48" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Pedro de Valdivia 1885 local 1, Providencia, Chile" lat="-33.434849" lng="-70.615730" valor="80" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Los Leones 1160, Providencia, Chile" lat="-33.429977" lng="-70.602692" valor="139" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Francisco Bilbao 2489, Providencia, Chile" lat="-33.436615" lng="-70.599068" valor="157" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Barcelona 2116, Providencia, Chile" lat="-33.425007" lng="-70.610512" valor="69" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Carlos Antúnez 2490, Providencia, Chile" lat="-33.426723" lng="-70.601791" valor="116" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Bilbao 3785, Providencia, Chile" lat="-33.431889" lng="-70.584763" valor="246" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Bilbao 2034, Providencia, Chile" lat="-33.384995" lng="-70.664810" valor="170" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Camino las Flores 20217, Pudahuel, Chile" lat="-33.329834" lng="-70.746643" valor="231" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Pajaritos 7001, Pudahuel, Chile" lat="-33.467838" lng="-70.731453" valor="96" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Diagonal Teniente Cruz 570, Pudahuel, Chile" lat="-33.455959" lng="-70.742157" valor="90" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Ruta 68 Km. 18,5, Pudahuel, Chile" lat="-33.441921" lng="-70.843391" valor="156" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Av Eyzaguirre 150, Puente Alto, Chile" lat="-33.612576" lng="-70.577728" valor="63" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Concha y Toro 1149, Puente Alto, Chile" lat="-33.598724" lng="-70.577774" valor="103" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Los Toros 05441, Puente Alto, Chile" lat="-33.571999" lng="-70.583389" valor="294" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Mexico 1915, Puente Alto, Chile" lat="-33.593819" lng="-70.559387" valor="54" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Concha y Toro 1477, Puente Alto, Chile" lat="-33.597942" lng="-70.577934" valor="169" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Concha y Toro 1149, Puente Alto, Chile" lat="-33.598724" lng="-70.577774" valor="111" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Concha y Toro 26, Puente Alto, Chile" lat="-33.612091" lng="-70.575424" valor="69" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Concha y Toro 494, Puente Alto, Chile" lat="-33.618149" lng="-70.574287" valor="187" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Concha y Toro 60, Puente Alto, Chile" lat="-33.611637" lng="-70.575516" valor="272" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Concha y Toro 230, Puente Alto, Chile" lat="-33.615376" lng="-70.574783" valor="156" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Gabriela Oriente 02895, Puente Alto, Chile" lat="-33.574318" lng="-70.554626" valor="239" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Camilo Henriquez 3692, Puente Alto, Chile" lat="-33.574314" lng="-70.554634" valor="70" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Las Torres 450, Quilicura, Chile" lat="-33.359406" lng="-70.724243" valor="33" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="OHiggins 314, Quilicura, Chile" lat="-33.360226" lng="-70.729858" valor="152" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Ohiggins 358, Quilicura, Chile" lat="-33.360226" lng="-70.729858" valor="66" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Matucana 1202, Quinta Normal, Chile" lat="-33.433041" lng="-70.680580" valor="50" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Av Recoleta 2302, Recoleta, Chile" lat="-33.405720" lng="-70.643166" valor="253" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Recoleta 3501, Recoleta, Chile" lat="-33.393883" lng="-70.642525" valor="89" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Recoleta 247, Recoleta, Chile" lat="-33.430313" lng="-70.647278" valor="155" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Recoleta 452, Recoleta, Chile" lat="-33.427784" lng="-70.646553" valor="164" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Recoleta 2304, Recoleta, Chile" lat="-33.405697" lng="-70.643166" valor="118" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Calle Blanco Encalada 1415, Renca, Chile" lat="-33.403042" lng="-70.704674" valor="221" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Dgo. Sta. Maria 4120, Renca, Chile" lat="-33.405209" lng="-70.704613" valor="202" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Eyzaguirre 650, San Bernardo, Chile" lat="-33.595333" lng="-70.706276" valor="41" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="A.Prat 117, San Bernardo, Chile" lat="-33.594154" lng="-70.698936" valor="106" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="San José 69, San Bernardo, Chile" lat="-33.598026" lng="-70.696342" valor="107" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Prat 589, San Bernardo, Chile" lat="-33.592762" lng="-70.704948" valor="158" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Eyzaguirre 530, San Bernardo, Chile" lat="-33.592827" lng="-70.705376" valor="299" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Eyzaguirre 578, San Bernardo, Chile" lat="-33.593983" lng="-70.705795" valor="279" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Padre Hurtado 15787, San Bernardo, Chile" lat="-33.644730" lng="-70.667152" valor="159" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Eyzaguirre 578, San Bernardo, Chile" lat="-33.593983" lng="-70.705795" valor="94" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Portales 3896, San Bernardo, Chile" lat="-33.636341" lng="-70.707169" valor="49" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Jorge Alessandri 20040, San Bernardo, Chile" lat="-33.629208" lng="-70.713432" valor="179" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="San José 69, San Bernardo, Chile" lat="-33.598026" lng="-70.696342" valor="52" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Gran José Miguel Carrera 4293, San Miguel, Chile" lat="-33.493298" lng="-70.652107" valor="41" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Gran Avenida 5001, San Miguel, Chile" lat="-33.499462" lng="-70.653824" valor="127" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="El Llano Subercasaux 3965, San Miguel, Chile" lat="-33.490173" lng="-70.651833" valor="212" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Gran Avenida 6150, San Miguel, Chile" lat="-33.512295" lng="-70.657295" valor="229" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Gran Avenida 6150, San Miguel, Chile" lat="-33.512295" lng="-70.657295" valor="268" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Jose Miguel Carrera 5919, San Miguel, Chile" lat="-33.509029" lng="-70.656563" valor="68" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Huérfanos 896, Santiago, Chile" lat="-33.439510" lng="-70.649513" valor="57" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Huérfanos 763, Santiago, Chile" lat="-33.439297" lng="-70.647682" valor="240" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Alameda 727, Santiago, Chile" lat="-33.599491" lng="-70.883354" valor="203" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Ismael Valdes Vergara 838, Santiago, Chile" lat="-33.433762" lng="-70.649422" valor="104" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Merced 360, Santiago, Chile" lat="-33.437450" lng="-70.642250" valor="299" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Alameda 1041, Santiago, Chile" lat="-33.490685" lng="-70.767433" valor="191" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Puente 689, Santiago, Chile" lat="-33.435150" lng="-70.651550" valor="40" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Estado 234, Santiago, Chile" lat="-33.440247" lng="-70.649437" valor="153" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Ahumada 226, Santiago, Chile" lat="-33.440472" lng="-70.650856" valor="36" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Ahumada 301, Santiago, Chile" lat="-33.439617" lng="-70.650932" valor="209" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Bandera 121, Santiago, Chile" lat="-33.441792" lng="-70.651962" valor="50" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Estado 380, Santiago, Chile" lat="-33.439030" lng="-70.649612" valor="230" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Estado 378, Santiago, Chile" lat="-33.439041" lng="-70.649605" valor="267" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Huérfanos 811, Santiago, Chile" lat="-33.439362" lng="-70.648338" valor="246" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Estado 2, Santiago, Chile" lat="-33.443317" lng="-70.648956" valor="40" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Ahumada 99, Santiago, Chile" lat="-33.441975" lng="-70.650620" valor="230" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Ahumada 199, Santiago, Chile" lat="-33.440788" lng="-70.650772" valor="261" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Metro Universidad de Chile, Santiago, Chile" lat="-33.443810" lng="-70.650391" valor="43" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Ahumada 199, Santiago, Chile" lat="-33.440788" lng="-70.650772" valor="215" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="L.B. OHiggins 915, Santiago, Chile" lat="-33.442078" lng="-70.754272" valor="119" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="B. Ohiggins 1583, Santiago, Chile" lat="-33.440346" lng="-70.753998" valor="208" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Calle Puente 764, Santiago, Chile" lat="-33.434528" lng="-70.651665" valor="219" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Teatinos 4, Santiago, Chile" lat="-33.444378" lng="-70.654228" valor="60" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Puente 602, Santiago, Chile" lat="-33.436169" lng="-70.651443" valor="91" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Huerfanos 1147, Santiago, Chile" lat="-33.439823" lng="-70.652969" valor="96" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Puente 764, Santiago, Chile" lat="-33.434528" lng="-70.651665" valor="156" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Bandera 313, Santiago, Chile" lat="-33.439640" lng="-70.652298" valor="196" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="G.Mackenna 1020, Santiago, Chile" lat="-33.520908" lng="-70.757919" valor="274" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="San Pablo 2302, Santiago, Chile" lat="-33.434948" lng="-70.669052" valor="151" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Alameda 3153, Santiago, Chile" lat="-33.490685" lng="-70.767433" valor="114" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Agustinas 2094, Santiago, Chile" lat="-33.442184" lng="-70.665169" valor="191" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Alameda 2798, Santiago, Chile" lat="-33.490685" lng="-70.767433" valor="284" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Lib. B. Ohiggins 2843, Santiago, Chile" lat="-33.504860" lng="-70.796173" valor="98" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Portugal 480, Santiago, Chile" lat="-33.448017" lng="-70.635315" valor="75" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Portugal 125, Santiago, Chile" lat="-33.443512" lng="-70.637520" valor="85" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Libertador B. OHiggins 980, Santiago, Chile" lat="-33.592220" lng="-70.695305" valor="156" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Eleuterio Ramírez 1024, Santiago, Chile" lat="-33.449074" lng="-70.649658" valor="188" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Nataniel 620, Santiago, Chile" lat="-33.457649" lng="-70.651794" valor="265" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="San Diego 2096, Santiago, Chile" lat="-33.473244" lng="-70.648315" valor="242" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Matta 1102, Santiago, Chile" lat="-33.366905" lng="-70.719498" valor="78" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Caletera Los Aromos 0440, Talagante, Chile" lat="-33.663746" lng="-70.927391" valor="144" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Eyzaguirre 715, Talagante, Chile" lat="-33.662933" lng="-70.931267" valor="116" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Liber Bernardo O'Higgins 1043, Talagante, Chile" lat="-33.663578" lng="-70.927940" valor="120" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Liber Bernardo O'Higgins 807, Talagante, Chile" lat="-33.662422" lng="-70.925003" valor="176" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vitacura 8163, Vitacura, Chile" lat="-33.385204" lng="-70.555023" valor="95" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Santa María Manquehuen 6938, Vitacura, Chile" lat="-33.373699" lng="-70.569603" valor="130" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vitacura 8400, Vitacura, Chile" lat="-33.384949" lng="-70.554367" valor="65" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vitacura 6345, Vitacura, Chile" lat="-33.390221" lng="-70.570778" valor="178" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Buenaventura 1770, Vitacura, Región Metropolitana, Chile" lat="-33.386368" lng="-70.568138" valor="123" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Santa María 6922, Vitacura, Chile" lat="-33.376980" lng="-70.568878" valor="216" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vitacura 6277, Vitacura, Chile" lat="-33.390430" lng="-70.571297" valor="112" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Americo Vespucio 2515, Vitacura, Chile" lat="-33.392105" lng="-70.593819" valor="52" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Manquehue 1280, Vitacura, Chile" lat="-33.396297" lng="-70.571762" valor="128" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Luis Carrera 2215, Vitacura, Región Metropolitana, Chile" lat="-33.390186" lng="-70.586899" valor="233" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Luis Pasteur 5875, Vitacura, Región Metropolitana, Chile" lat="-33.388435" lng="-70.577538" valor="45" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Pio XI 1615, Vitacura, Chile" lat="-33.397606" lng="-70.582603" valor="286" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vitacura 4224 / Americo Vespucio, Vitacura, Chile" lat="-33.377632" lng="-70.562187" valor="83" total="44980" type="Ahumada"/>
+	<marker idLocal="" name="Ahumada" address="Vitacura 3435, Vitacura, Región Metropolitana, Chile" lat="-33.404903" lng="-70.597145" valor="205" total="44980" type="Ahumada"/>
+</markers>
