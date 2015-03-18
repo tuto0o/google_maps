@@ -58,27 +58,27 @@
 
 		var arrRangos		= {		
 			rango_1: { inicio: 0,
-								 termino: 20,
+								 termino: 0.2,
 								 color: 'ff0000',
 								 mult: 5
 			},
-			rango_2: { inicio: 21,
-								 termino: 40,
+			rango_2: { inicio: 0.21,
+								 termino: 0.4,
 								 color: 'ffdb14',
 								 mult: 4
 			},
-			rango_3: { inicio: 41,
-								 termino: 60,
+			rango_3: { inicio: 0.41,
+								 termino: 0.6,
 								 color: '008000',
 								 mult: 3.5
 			},
-			rango_4: { inicio: 61,
-								 termino: 80,
+			rango_4: { inicio: 0.61,
+								 termino: 0.8,
 								 color: 'FF6A00',
 								 mult: 3
 			},
-			rango_5: { inicio: 81,
-								 termino: 100,
+			rango_5: { inicio: 0.81,
+								 termino: 1,
 								 color: '7C0000',
 								 mult: 2.5
 			}
@@ -194,10 +194,11 @@
 				createClickableCircle(map, cityCircle, html); 
         //bindInfoWindow(populationOptions, map, infoWindow, html);
 				resizeRadius(peso, map, cityCircle, multiplo);
-
+				changeColor(cityCircle);
         }
       });
 		}
+				
 		function createClickableCircle(map, circle, info){
 		 var infowindow =new google.maps.InfoWindow({
 					content: info
@@ -213,6 +214,7 @@
 				var radio		= (Math.sqrt(peso) * multiplo) * arrRadio['range_'+zoomLevel];
 
         cityCircle.setRadius(radio);
+				//cityCircle.setOptions({fillColor:'#7C0000'});
 			});
 		}
     function bindInfoWindow(marker, map, infoWindow, html) {
